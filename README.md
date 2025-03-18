@@ -1,4 +1,4 @@
 # 202512 ENtwurf relationaler Datenbanken
 
-Entwurfswerkzeut Entity Relationship Diagram
+Entwurfswerkzeug Entity Relationship Diagram
 https://draw.io
