@@ -1,4 +1,4 @@
-# 202512 ENtwurf relationaler Datenbanken
+# 202512 Entwurf relationaler Datenbanken -BZE
 
 Entwurfswerkzeug Entity Relationship Diagram
-https://draw.io
+[Link zum Design Werkzeug](https://draw.io)
