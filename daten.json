@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Max Mustermann",
+        "age": 25,
+        "city": "Musterstadt",
+        "adresse": {
+            "street": "Musterstraße",
+            "number": 1
+        }
+    },
+    {
+        "name": "Erika Mustermann",
+        "age": 23,
+        "city": "Musterstadt",
+        "adresse": {
+            "street": "Musterstraße",
+            "number": 2
+        }
+    }
+]

@@ -1,0 +1,11 @@
+<Adresse>
+    <Name Alter="15">Max Mustermann</Name>
+    <Test hight="10"/>
+    <Anschrift>
+        <Strasse>Musterstraße 1</Strasse>
+        <PLZ>12345</PLZ>
+        <Ort>Musterstadt</Ort>
+    </Anschrift>
+    <Telefon>0123/456789</Telefon>
+    <Email/>
+</Adresse>
