@@ -1,0 +1,214 @@
+[
+    {
+        "Veranstaltung": "München Marathon",
+        "Ort": "München",
+        "Messungen": [
+            {
+                "Vorname": "John",
+                "Nachname": "Miller",
+                "Verein": "Club E",
+                "Geburtsjahr": 2003,
+                "Geschlecht": "weiblich",
+                "Disziplin": "Laufen",
+                "Strecke": "18 km",
+                "Zeit": "01:11:38"
+            },
+            {
+                "Vorname": "Michael",
+                "Nachname": "Smith",
+                "Verein": "Club A",
+                "Geburtsjahr": 2003,
+                "Geschlecht": "m\u00e4nnlich",
+                "Disziplin": "Skaten",
+                "Strecke": "21 km",
+                "Zeit": "01:23:13"
+            },
+            {
+                "Vorname": "Chris",
+                "Nachname": "Johnson",
+                "Verein": "Club A",
+                "Geburtsjahr": 1986,
+                "Geschlecht": "weiblich",
+                "Disziplin": "Radrennen",
+                "Strecke": "22 km",
+                "Zeit": "05:17:23"
+            },
+            {
+                "Vorname": "Laura",
+                "Nachname": "Brown",
+                "Verein": "Club D",
+                "Geburtsjahr": 2001,
+                "Geschlecht": "weiblich",
+                "Disziplin": "Skaten",
+                "Strecke": "38 km",
+                "Zeit": "05:25:24"
+            },
+            {
+                "Vorname": "Chris",
+                "Nachname": "Smith",
+                "Verein": "Club B",
+                "Geburtsjahr": 1995,
+                "Geschlecht": "m\u00e4nnlich",
+                "Disziplin": "Radrennen",
+                "Strecke": "29 km",
+                "Zeit": "04:07:43"
+            },
+            {
+                "Vorname": "Chris",
+                "Nachname": "Jones",
+                "Verein": "Club C",
+                "Geburtsjahr": 1980,
+                "Geschlecht": "m\u00e4nnlich",
+                "Disziplin": "Radrennen",
+                "Strecke": "25 km",
+                "Zeit": "00:58:37"
+            },
+            {
+                "Vorname": "Chris",
+                "Nachname": "Jones",
+                "Verein": "Club D",
+                "Geburtsjahr": 2003,
+                "Geschlecht": "m\u00e4nnlich",
+                "Disziplin": "Radrennen",
+                "Strecke": "28 km",
+                "Zeit": "05:27:07"
+            },
+            {
+                "Vorname": "David",
+                "Nachname": "Davis",
+                "Verein": "Club D",
+                "Geburtsjahr": 1994,
+                "Geschlecht": "m\u00e4nnlich",
+                "Disziplin": "Radrennen",
+                "Strecke": "30 km",
+                "Zeit": "01:48:30"
+            },
+            {
+                "Vorname": "Laura",
+                "Nachname": "Garcia",
+                "Verein": "Club A",
+                "Geburtsjahr": 1995,
+                "Geschlecht": "weiblich",
+                "Disziplin": "Skaten",
+                "Strecke": "19 km",
+                "Zeit": "02:06:57"
+            },
+            {
+                "Vorname": "John",
+                "Nachname": "Jones",
+                "Verein": "Club A",
+                "Geburtsjahr": 1982,
+                "Geschlecht": "weiblich",
+                "Disziplin": "Skaten",
+                "Strecke": "13 km",
+                "Zeit": "00:43:12"
+            }
+        ]
+    },
+    {
+        "Veranstaltung": "Lausitzmarathon",
+        "Ort": "Senftenberg",
+        "Messungen": [
+            {
+                "Vorname": "Alex",
+                "Nachname": "Johnson",
+                "Verein": "Club A",
+                "Geburtsjahr": 1991,
+                "Geschlecht": "m\u00e4nnlich",
+                "Disziplin": "Laufen",
+                "Strecke": "12 km",
+                "Zeit": "03:52:02"
+            },
+            {
+                "Vorname": "Sarah",
+                "Nachname": "Miller",
+                "Verein": "Club C",
+                "Geburtsjahr": 2001,
+                "Geschlecht": "m\u00e4nnlich",
+                "Disziplin": "Radrennen",
+                "Strecke": "13 km",
+                "Zeit": "00:20:48"
+            },
+            {
+                "Vorname": "Chris",
+                "Nachname": "Martinez",
+                "Verein": "Club B",
+                "Geburtsjahr": 2005,
+                "Geschlecht": "m\u00e4nnlich",
+                "Disziplin": "Radrennen",
+                "Strecke": "9 km",
+                "Zeit": "01:44:28"
+            },
+            {
+                "Vorname": "David",
+                "Nachname": "Brown",
+                "Verein": "Club D",
+                "Geburtsjahr": 1993,
+                "Geschlecht": "weiblich",
+                "Disziplin": "Skaten",
+                "Strecke": "23 km",
+                "Zeit": "03:56:52"
+            },
+            {
+                "Vorname": "David",
+                "Nachname": "Jones",
+                "Verein": "Club D",
+                "Geburtsjahr": 1984,
+                "Geschlecht": "weiblich",
+                "Disziplin": "Laufen",
+                "Strecke": "27 km",
+                "Zeit": "05:40:25"
+            },
+            {
+                "Vorname": "David",
+                "Nachname": "Brown",
+                "Verein": "Club B",
+                "Geburtsjahr": 1986,
+                "Geschlecht": "m\u00e4nnlich",
+                "Disziplin": "Skaten",
+                "Strecke": "6 km",
+                "Zeit": "04:17:27"
+            },
+            {
+                "Vorname": "Katie",
+                "Nachname": "Johnson",
+                "Verein": "Club E",
+                "Geburtsjahr": 1996,
+                "Geschlecht": "m\u00e4nnlich",
+                "Disziplin": "Skaten",
+                "Strecke": "20 km",
+                "Zeit": "01:27:03"
+            },
+            {
+                "Vorname": "David",
+                "Nachname": "Miller",
+                "Verein": "Club D",
+                "Geburtsjahr": 1996,
+                "Geschlecht": "m\u00e4nnlich",
+                "Disziplin": "Laufen",
+                "Strecke": "26 km",
+                "Zeit": "01:50:07"
+            },
+            {
+                "Vorname": "Emily",
+                "Nachname": "Williams",
+                "Verein": "Club C",
+                "Geburtsjahr": 1998,
+                "Geschlecht": "weiblich",
+                "Disziplin": "Skaten",
+                "Strecke": "10 km",
+                "Zeit": "02:29:43"
+            },
+            {
+                "Vorname": "John",
+                "Nachname": "Davis",
+                "Verein": "Club A",
+                "Geburtsjahr": 1989,
+                "Geschlecht": "m\u00e4nnlich",
+                "Disziplin": "Skaten",
+                "Strecke": "25 km",
+                "Zeit": "02:38:44"
+            }
+        ]
+    }
+]

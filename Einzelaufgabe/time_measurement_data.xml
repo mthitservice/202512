@@ -1,0 +1,214 @@
+<Events>
+    <Event>
+        <Name>Spreewaldmarathon</Name>
+        <Location>Burg</Location>
+        <Measurements>
+            <Participant>
+                <FirstName>John</FirstName>
+                <LastName>Rodriguez</LastName>
+                <Club>Club D</Club>
+                <YearOfBirth>1999</YearOfBirth>
+                <Gender>female</Gender>
+                <Discipline>Cycling</Discipline>
+                <Distance>12 km</Distance>
+                <Time>03:24:29</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Laura</FirstName>
+                <LastName>Jones</LastName>
+                <Club>Club C</Club>
+                <YearOfBirth>1984</YearOfBirth>
+                <Gender>female</Gender>
+                <Discipline>Running</Discipline>
+                <Distance>16 km</Distance>
+                <Time>00:58:28</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Michael</FirstName>
+                <LastName>Smith</LastName>
+                <Club>Club E</Club>
+                <YearOfBirth>1985</YearOfBirth>
+                <Gender>female</Gender>
+                <Discipline>Cycling</Discipline>
+                <Distance>17 km</Distance>
+                <Time>00:25:52</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Michael</FirstName>
+                <LastName>Williams</LastName>
+                <Club>Club E</Club>
+                <YearOfBirth>1982</YearOfBirth>
+                <Gender>male</Gender>
+                <Discipline>Skating</Discipline>
+                <Distance>12 km</Distance>
+                <Time>04:24:12</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Sarah</FirstName>
+                <LastName>Brown</LastName>
+                <Club>Club B</Club>
+                <YearOfBirth>1995</YearOfBirth>
+                <Gender>female</Gender>
+                <Discipline>Cycling</Discipline>
+                <Distance>40 km</Distance>
+                <Time>01:34:50</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Sarah</FirstName>
+                <LastName>Smith</LastName>
+                <Club>Club A</Club>
+                <YearOfBirth>1995</YearOfBirth>
+                <Gender>female</Gender>
+                <Discipline>Skating</Discipline>
+                <Distance>42 km</Distance>
+                <Time>04:13:42</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Alex</FirstName>
+                <LastName>Williams</LastName>
+                <Club>Club A</Club>
+                <YearOfBirth>1987</YearOfBirth>
+                <Gender>female</Gender>
+                <Discipline>Skating</Discipline>
+                <Distance>37 km</Distance>
+                <Time>04:48:43</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Alex</FirstName>
+                <LastName>Rodriguez</LastName>
+                <Club>Club D</Club>
+                <YearOfBirth>2004</YearOfBirth>
+                <Gender>female</Gender>
+                <Discipline>Running</Discipline>
+                <Distance>27 km</Distance>
+                <Time>05:40:12</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Jane</FirstName>
+                <LastName>Johnson</LastName>
+                <Club>Club C</Club>
+                <YearOfBirth>1985</YearOfBirth>
+                <Gender>female</Gender>
+                <Discipline>Running</Discipline>
+                <Distance>40 km</Distance>
+                <Time>05:55:34</Time>
+            </Participant>
+            <Participant>
+                <FirstName>David</FirstName>
+                <LastName>Rodriguez</LastName>
+                <Club>Club C</Club>
+                <YearOfBirth>1985</YearOfBirth>
+                <Gender>male</Gender>
+                <Discipline>Skating</Discipline>
+                <Distance>5 km</Distance>
+                <Time>04:48:04</Time>
+            </Participant>
+        </Measurements>
+    </Event>
+    <Event>
+        <Name>Lausitzmarathon</Name>
+        <Location>Hamburg</Location>
+        <Measurements>
+            <Participant>
+                <FirstName>Jane</FirstName>
+                <LastName>Miller</LastName>
+                <Club>Club B</Club>
+                <YearOfBirth>1995</YearOfBirth>
+                <Gender>male</Gender>
+                <Discipline>Cycling</Discipline>
+                <Distance>17 km</Distance>
+                <Time>01:31:59</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Sarah</FirstName>
+                <LastName>Brown</LastName>
+                <Club>Club D</Club>
+                <YearOfBirth>1987</YearOfBirth>
+                <Gender>female</Gender>
+                <Discipline>Cycling</Discipline>
+                <Distance>34 km</Distance>
+                <Time>04:04:50</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Jane</FirstName>
+                <LastName>Davis</LastName>
+                <Club>Club D</Club>
+                <YearOfBirth>1980</YearOfBirth>
+                <Gender>male</Gender>
+                <Discipline>Skating</Discipline>
+                <Distance>16 km</Distance>
+                <Time>00:35:26</Time>
+            </Participant>
+            <Participant>
+                <FirstName>John</FirstName>
+                <LastName>Garcia</LastName>
+                <Club>Club A</Club>
+                <YearOfBirth>1997</YearOfBirth>
+                <Gender>male</Gender>
+                <Discipline>Running</Discipline>
+                <Distance>7 km</Distance>
+                <Time>01:25:40</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Laura</FirstName>
+                <LastName>Garcia</LastName>
+                <Club>Club C</Club>
+                <YearOfBirth>1989</YearOfBirth>
+                <Gender>female</Gender>
+                <Discipline>Cycling</Discipline>
+                <Distance>26 km</Distance>
+                <Time>01:49:05</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Alex</FirstName>
+                <LastName>Smith</LastName>
+                <Club>Club D</Club>
+                <YearOfBirth>2000</YearOfBirth>
+                <Gender>female</Gender>
+                <Discipline>Running</Discipline>
+                <Distance>17 km</Distance>
+                <Time>03:28:50</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Jane</FirstName>
+                <LastName>Brown</LastName>
+                <Club>Club D</Club>
+                <YearOfBirth>2003</YearOfBirth>
+                <Gender>male</Gender>
+                <Discipline>Skating</Discipline>
+                <Distance>26 km</Distance>
+                <Time>05:13:31</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Sarah</FirstName>
+                <LastName>Jones</LastName>
+                <Club>Club D</Club>
+                <YearOfBirth>1990</YearOfBirth>
+                <Gender>male</Gender>
+                <Discipline>Skating</Discipline>
+                <Distance>29 km</Distance>
+                <Time>03:10:14</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Jane</FirstName>
+                <LastName>Williams</LastName>
+                <Club>Club C</Club>
+                <YearOfBirth>1983</YearOfBirth>
+                <Gender>female</Gender>
+                <Discipline>Running</Discipline>
+                <Distance>24 km</Distance>
+                <Time>02:06:02</Time>
+            </Participant>
+            <Participant>
+                <FirstName>Katie</FirstName>
+                <LastName>Garcia</LastName>
+                <Club>Club E</Club>
+                <YearOfBirth>1998</YearOfBirth>
+                <Gender>male</Gender>
+                <Discipline>Cycling</Discipline>
+                <Distance>39 km</Distance>
+                <Time>03:24:41</Time>
+            </Participant>
+        </Measurements>
+    </Event>
+</Events>
