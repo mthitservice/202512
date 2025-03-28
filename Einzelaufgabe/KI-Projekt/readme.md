@@ -1,0 +1,1 @@
+# Beispielprojekt zum Erstellen einer Datenbank aus dem Projekt heraus (Code First)

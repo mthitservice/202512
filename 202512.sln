@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Einzelaufgabe", "Einzelaufgabe", "{7A987086-F639-C3B5-D6C2-8CA7A5501254}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KI-Projekt", "KI-Projekt", "{75C075FD-8D66-F0A4-8382-4E660BD4358D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ki-console-app", "Einzelaufgabe\KI-Projekt\ki-console-app\ki-console-app.csproj", "{A20842E2-B213-0377-DF68-E1FAE42496FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A20842E2-B213-0377-DF68-E1FAE42496FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A20842E2-B213-0377-DF68-E1FAE42496FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A20842E2-B213-0377-DF68-E1FAE42496FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A20842E2-B213-0377-DF68-E1FAE42496FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{75C075FD-8D66-F0A4-8382-4E660BD4358D} = {7A987086-F639-C3B5-D6C2-8CA7A5501254}
+		{A20842E2-B213-0377-DF68-E1FAE42496FC} = {75C075FD-8D66-F0A4-8382-4E660BD4358D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F7CEC28-E241-4BDF-A320-1F1DBB0E639B}
+	EndGlobalSection
+EndGlobal
